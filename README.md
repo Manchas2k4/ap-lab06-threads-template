@@ -20,7 +20,7 @@ Los archivos de entrada son archivos de texto que tiene el siguiente formato: la
 7.0 8.0 9.0
 ```
 
-Puedes utilizar el programa *create_matrix.c* para generar matrices de prueba. Tu programa deberá imprimir el resultado de la multiplización en pantalla. La matriz resultante debe ser impresa en el mismo formato que se utiliza en los archivos de texto. Tu solución también debe ser cronometrada. Si tu implementación utiliza correctamente varios hilos, se debe esperar una mejora en el tiempo requerido para hacer el cálculo completo. Por ejemplo, en alguna maquina ejecutamos:
+Puedes utilizar el programa *create_matrix.c* para generar matrices de prueba. Tu programa deberá imprimir el resultado de la multiplicación en pantalla. La matriz resultante debe ser impresa en el mismo formato que se utiliza en los archivos de texto. Tu solución también debe ser cronometrada. Si tu implementación utiliza correctamente varios hilos, se debe esperar una mejora en el tiempo requerido para hacer el cálculo completo. Por ejemplo, en alguna maquina ejecutamos:
 
 ```
 $ .\mutiply -a a1000.txt -b b1000.txt -t 1
