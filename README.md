@@ -11,7 +11,7 @@ Escribe el programa multiply que multiplica dos matrices. El programa recibe de 
 $ .\mutiply -a matrix_file_a.txt -b matrix_file_b.txt -t thread_amount
 ```
 
-Los archivos de entrada son archivos de texto que tiene el siguiente formato: la primera linea tiene dos números, *N* renglones y *M* columnas. Las siguientes N línea contienen M números flotantes. Por ejemplo:
+Los archivos de entrada son archivos de texto que tiene el siguiente formato: la primera linea tiene dos números, *N* renglones y *N* columnas. Las siguientes N línea contienen *N* números flotantes. Por ejemplo:
 
 ```
 3
