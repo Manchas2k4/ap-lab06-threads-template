@@ -1,3 +1,4 @@
+![Tec de Monterrey](images/logotecmty.png)
 # Actividad colaborativa - Manejo de threads
 En esta actividad, debes desarrollar una versión miltihilos de la multiplicación de matrices. Esta versión usa hilos para dividir el trabajo necesario para calcular el producto de dos matrices. Existen varias formas de mejorar el rendimiento utilizando multihilos.
 Un ejemplo, dividir el cálculo en la dimensión de los renglones entre varios hilos. Es decir, si estamos calculando *A* x *B*, siendo *A* y *B* matrices cuadradas de 10 x 10, la solución debe usar hilos para dividir el cálculo de los renglones del producto (que resulta
